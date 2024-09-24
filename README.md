@@ -10,7 +10,7 @@ Welcome to my profile
 
 ➔ Learning React and Node.js in *SENAI SGRA*
 
-Contact: csribeiro@hotmail.com
+Contact: carloscsribeiro@hotmail.com
 <!---
 CS-Ribeiro/CS-Ribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

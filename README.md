@@ -6,7 +6,7 @@ Welcome to my profile
 
 ➔ Industrial Automation 🔌
 
-➔ Learning in React and Node.js
+➔ Learning React and Node.js
 <!---
 CS-Ribeiro/CS-Ribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
